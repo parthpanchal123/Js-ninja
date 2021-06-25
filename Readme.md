@@ -6,7 +6,7 @@
 
 ### All these tricks are taken from [Simon Hoiberg](https://github.com/SimonHoiberg) 's Javascript cheatsheet .
 
-Download the pdf from here -> [65+ JavaScript Code Snippets - With Explanations.pdf](https://github.com/parthpanchal123/Js-tricks/blob/master/Resources/65%2B%20JavaScript%20Code%20Snippets%20-%20With%20Explanations.pdf)
+Download the pdf from here -> [65+ JavaScript Code Snippets - With Explanations.pdf](https://github.com/parthpanchal123/Js-tricks/blob/master/Resources/65%2B%20JavaScript%20Code%20Snippets%20-%20With%20Explanations.pdf)  
 The pdf contains many more tricks as compared to this repo. I'll add them gradually .
 
 ## Contributing 
